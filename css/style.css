@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 30%;
+    height: 100px;
+    background-color: brown;
+    float: left;
+
+
+}
+
+.logo h1{
+    color: cadetblue;
+    padding: 30px;
+    text-align: center;
+}
+
+.banner{
+    width: 70%;
+    height: 100px;
+    background-color: burlywood;
+    float: left;
+}
+.banner h1{
+    text-align: center;
+    color: chocolate;
+    padding: 30px;
+}
+header{
+    overflow: hidden;
+    margin: 0 30px;
+}
+
+.header_bar{
+    height: 50px;
+    background-color: aquamarine;
+    margin: 0 30px 10px;
+    text-align: center;
+    padding: 15px;
+    overflow: hidden;
+}
+
+article{
+    padding: 0 30px;
+    overflow: hidden;
+}
+
+    .left{
+        width: 20%;
+        height: 400px;
+        background-color: blueviolet;
+        float: left;        
+
+    }
+    .center{
+        width: 60%;
+        height: 400px;
+        background-color: coral;
+        float: left;
+    }
+    .right{
+        width: 20%;
+        height: 400px;
+        background-color: cornflowerblue;
+        float: right;
+
+    }
+
+   .center_top{
+        height: 25%;
+        background-color: darkviolet;
+   }
+
+   .center_center{
+       height: 50%;
+       background-color: dodgerblue;
+       overflow: hidden;
+
+   }
+
+   .center_down{
+       height: 25%;
+       background-color: firebrick;
+
+   }
+  .center-left{
+      width: 50%;
+      height: 100%;
+      background-color: indigo;
+      float: left;
+  }
+
+  .center-right{
+      width: 50%;
+      height: 100%;
+      background-color: lavender;
+      float: right;
+  }
+
+  footer{
+      text-align: center;
+      color: lightcoral;
+      background-color: lightgreen;
+      margin: 0 30px;
+  }
